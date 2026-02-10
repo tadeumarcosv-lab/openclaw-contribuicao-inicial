@@ -18,4 +18,8 @@ Este material foi criado como parte de um processo de aprendizado, organização
 
 ---
 
-Contribuição realizada por **Tadeu Marcos Viana**.
+Contribuição realizada por **Tadeu Marcos Viana**. 
+# Rede de Apoio Financeiro Colaborativo
+
+Projeto de ajuda mútua baseado em microcontribuições via PIX,
+com foco em solidariedade, transparência e efeito em rede.
