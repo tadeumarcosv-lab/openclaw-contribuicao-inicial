@@ -9,7 +9,7 @@ Registrar de forma simples e transparente a participação inicial, ideias e int
 ## Contexto
 
 Este material foi criado como parte de um processo de aprendizado, organização e contribuição colaborativa, utilizando o GitHub como ferramenta central.
-## Próximos Passos
+
 
 
 ## Próximos Passos
